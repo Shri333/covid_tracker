@@ -1,0 +1,17 @@
+.center h1 {
+  text-align: center;
+  font-weight: 100;
+  font-family: Helvetica;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.grey {
+  color: grey;
+}
